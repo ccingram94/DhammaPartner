@@ -1,0 +1,11 @@
+{
+  "name": "dhammapartner",
+  "version": "1.0.0",
+  "description": "DhammaPartner is an easy, daily meditation buddy guided by the verses of the Dhammapada.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Constance Ingram",
+  "license": "ISC"
+}
